@@ -30,8 +30,6 @@ namespace JSONArticle
             string jsonString = JsonSerializer.Serialize(inventoryList, options);
             Console.Write($"Serialized list {Environment.NewLine} {jsonString} {Environment.NewLine}");
 
-            var list = JsonSerializer.Deserialize<InventoryList>(jsonString);
-            Console.Write($"Deserialization completed");
         }
     }
 
