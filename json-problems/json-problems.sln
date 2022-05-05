@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json-problems", "json-problems.csproj", "{844628A1-E27D-4492-A415-F9865AA0EAEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844628A1-E27D-4492-A415-F9865AA0EAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844628A1-E27D-4492-A415-F9865AA0EAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844628A1-E27D-4492-A415-F9865AA0EAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844628A1-E27D-4492-A415-F9865AA0EAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1BD762-0891-40D2-BCA2-A2FA8E8870ED}
+	EndGlobalSection
+EndGlobal
